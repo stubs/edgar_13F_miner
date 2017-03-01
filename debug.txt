@@ -1,0 +1,3091 @@
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036117008092/0001140361-17-008092.txt
+Data written to: 20170217_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036117005641/0001140361-17-005641.txt
+Data written to: 20170210_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036116086251/0001140361-16-086251.txt
+Data written to: 20161114_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036116076135/0001140361-16-076135.txt
+Data written to: 20160812_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036116064994/0001140361-16-064994.txt
+Data written to: 20160513_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036116052091/0001140361-16-052091.txt
+Data written to: 20160212_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036115041084/0001140361-15-041084.txt
+Data written to: 20151113_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036115031682/0001140361-15-031682.txt
+Data written to: 20150813_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036115019650/0001140361-15-019650.txt
+Data written to: 20150514_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036115006564/0001140361-15-006564.txt
+Data written to: 20150213_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036114042205/0001140361-14-042205.txt
+Data written to: 20141114_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036114032194/0001140361-14-032194.txt
+Data written to: 20140813_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036114020927/0001140361-14-020927.txt
+Data written to: 20140514_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036114006969/0001140361-14-006969.txt
+Data written to: 20140213_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036113042187/0001140361-13-042187.txt
+Data written to: 20131113_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036113032390/0001140361-13-032390.txt
+Data written to: 20130814_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036113020623/0001140361-13-020623.txt
+Data written to: 20130514_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036113006352/0001140361-13-006352.txt
+Data written to: 20130213_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036112046836/0001140361-12-046836.txt
+Data written to: 20121113_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036112036837/0001140361-12-036837.txt
+Data written to: 20120814_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036112025148/0001140361-12-025148.txt
+Data written to: 20120515_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036112007373/0001140361-12-007373.txt
+Data written to: 20120213_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036111053410/0001140361-11-053410.txt
+Data written to: 20111114_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036111041512/0001140361-11-041512.txt
+Data written to: 20110812_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036111027755/0001140361-11-027755.txt
+Data written to: 20110516_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036111009402/0001140361-11-009402.txt
+Data written to: 20110214_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036110046602/0001140361-10-046602.txt
+Data written to: 20101119_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036110045472/0001140361-10-045472.txt
+Data written to: 20101115_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036110033353/0001140361-10-033353.txt
+Data written to: 20100813_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036110021423/0001140361-10-021423.txt
+Data written to: 20100514_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036110006681/0001140361-10-006681.txt
+Data written to: 20100216_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036109026749/0001140361-09-026749.txt
+Data written to: 20091118_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036109026217/0001140361-09-026217.txt
+Data written to: 20091116_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036109019023/0001140361-09-019023.txt
+Data written to: 20090814_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036109012375/0001140361-09-012375.txt
+Data written to: 20090515_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036109004041/0001140361-09-004041.txt
+Data written to: 20090213_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036108025543/0001140361-08-025543.txt
+Data written to: 20081114_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036108019441/0001140361-08-019441.txt
+Data written to: 20080814_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036108012544/0001140361-08-012544.txt
+Data written to: 20080515_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1119376/000114036108004242/0001140361-08-004242.txt
+Data written to: 20080214_1119376_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000145307217000031/0001453072-17-000031.txt
+Data written to: 20170217_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000145307217000030/0001453072-17-000030.txt
+Data written to: 20170217_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000145307217000029/0001453072-17-000029.txt
+Data written to: 20170217_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000145307217000025/0001453072-17-000025.txt
+Data written to: 20170214_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000329/0001164691-16-000329.txt
+Data written to: 20161118_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000327/0001164691-16-000327.txt
+Data written to: 20161118_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000326/0001164691-16-000326.txt
+Data written to: 20161118_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000315/0001164691-16-000315.txt
+Data written to: 20161114_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000299/0001164691-16-000299.txt
+Data written to: 20160817_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000298/0001164691-16-000298.txt
+Data written to: 20160817_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000297/0001164691-16-000297.txt
+Data written to: 20160817_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000296/0001164691-16-000296.txt
+Data written to: 20160817_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000288/0001164691-16-000288.txt
+Data written to: 20160815_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000273/0001164691-16-000273.txt
+Data written to: 20160519_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000272/0001164691-16-000272.txt
+Data written to: 20160519_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000263/0001164691-16-000263.txt
+Data written to: 20160516_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000243/0001164691-16-000243.txt
+Data written to: 20160218_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000242/0001164691-16-000242.txt
+Data written to: 20160218_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000241/0001164691-16-000241.txt
+Data written to: 20160218_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000240/0001164691-16-000240.txt
+Data written to: 20160218_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469116000220/0001164691-16-000220.txt
+Data written to: 20160216_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000182/0001164691-15-000182.txt
+Data written to: 20151119_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000181/0001164691-15-000181.txt
+Data written to: 20151119_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000180/0001164691-15-000180.txt
+Data written to: 20151119_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000179/0001164691-15-000179.txt
+Data written to: 20151119_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000178/0001164691-15-000178.txt
+Data written to: 20151119_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000177/0001164691-15-000177.txt
+Data written to: 20151119_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000176/0001164691-15-000176.txt
+Data written to: 20151119_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000175/0001164691-15-000175.txt
+Data written to: 20151119_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000164/0001164691-15-000164.txt
+Data written to: 20151116_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000142/0001164691-15-000142.txt
+Data written to: 20150817_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000141/0001164691-15-000141.txt
+Data written to: 20150817_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000140/0001164691-15-000140.txt
+Data written to: 20150817_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000139/0001164691-15-000139.txt
+Data written to: 20150817_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000132/0001164691-15-000132.txt
+Data written to: 20150814_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000129/0001164691-15-000129.txt
+Data written to: 20150814_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000102/0001164691-15-000102.txt
+Data written to: 20150521_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000101/0001164691-15-000101.txt
+Data written to: 20150521_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000100/0001164691-15-000100.txt
+Data written to: 20150521_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1453072/000116469115000099/0001164691-15-000099.txt
+Data written to: 20150521_1453072_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012317002540/0000950123-17-002540.txt
+Data written to: 20170214_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012316022564/0000950123-16-022564.txt
+Data written to: 20161115_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012316020475/0000950123-16-020475.txt
+Data written to: 20160915_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012316019992/0000950123-16-019992.txt
+Data written to: 20160815_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012316017529/0000950123-16-017529.txt
+Data written to: 20160516_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012316014794/0000950123-16-014794.txt
+Data written to: 20160216_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012315012246/0000950123-15-012246.txt
+Data written to: 20151116_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012315009564/0000950123-15-009564.txt
+Data written to: 20150821_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012315009376/0000950123-15-009376.txt
+Data written to: 20150814_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012315006591/0000950123-15-006591.txt
+Data written to: 20150518_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012315002192/0000950123-15-002192.txt
+Data written to: 20150217_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012314012152/0000950123-14-012152.txt
+Data written to: 20141114_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012314009152/0000950123-14-009152.txt
+Data written to: 20140814_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012314006353/0000950123-14-006353.txt
+Data written to: 20140515_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012314002753/0000950123-14-002753.txt
+Data written to: 20140214_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012313009810/0000950123-13-009810.txt
+Data written to: 20131114_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012313007070/0000950123-13-007070.txt
+Data written to: 20130816_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000095012313006989/0000950123-13-006989.txt
+Data written to: 20130814_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000119312513222340/0001193125-13-222340.txt
+Data written to: 20130515_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000119312513060516/0001193125-13-060516.txt
+Data written to: 20130214_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000119312512472412/0001193125-12-472412.txt
+Data written to: 20121114_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000119312512355761/0001193125-12-355761.txt
+Data written to: 20120814_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000119312512234402/0001193125-12-234402.txt
+Data written to: 20120515_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746912002966/0001047469-12-002966.txt
+Data written to: 20120320_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746912001043/0001047469-12-001043.txt
+Data written to: 20120214_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746911009502/0001047469-11-009502.txt
+Data written to: 20111114_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746911007378/0001047469-11-007378.txt
+Data written to: 20110815_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746911005217/0001047469-11-005217.txt
+Data written to: 20110516_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746911000930/0001047469-11-000930.txt
+Data written to: 20110214_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746910009838/0001047469-10-009838.txt
+Data written to: 20101116_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746910009806/0001047469-10-009806.txt
+Data written to: 20101115_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746910007566/0001047469-10-007566.txt
+Data written to: 20100816_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746910005999/0001047469-10-005999.txt
+Data written to: 20100618_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746910005397/0001047469-10-005397.txt
+Data written to: 20100517_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746910000806/0001047469-10-000806.txt
+Data written to: 20100212_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746909009890/0001047469-09-009890.txt
+Data written to: 20091110_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746909007449/0001047469-09-007449.txt
+Data written to: 20090810_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746909005902/0001047469-09-005902.txt
+Data written to: 20090522_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746909005696/0001047469-09-005696.txt
+Data written to: 20090515_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1418333/000104746909000922/0001047469-09-000922.txt
+Data written to: 20090211_1418333_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1569139/000156913917000004/0001569139-17-000004.txt
+Data written to: 20170217_1569139_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1569139/000156913916000010/0001569139-16-000010.txt
+Data written to: 20161116_1569139_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1569139/000156913916000009/0001569139-16-000009.txt
+Data written to: 20160815_1569139_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1569139/000156913916000008/0001569139-16-000008.txt
+Data written to: 20160516_1569139_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1569139/000156913916000004/0001569139-16-000004.txt
+Data written to: 20160217_1569139_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420417009661/0001144204-17-009661.txt
+Data written to: 20170217_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420416134443/0001144204-16-134443.txt
+Data written to: 20161115_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420416114341/0001144204-16-114341.txt
+Data written to: 20160726_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420416103430/0001144204-16-103430.txt
+Data written to: 20160519_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420416080265/0001144204-16-080265.txt
+Data written to: 20160210_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420415064715/0001144204-15-064715.txt
+Data written to: 20151112_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420415048480/0001144204-15-048480.txt
+Data written to: 20150812_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420415031646/0001144204-15-031646.txt
+Data written to: 20150515_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420414066537/0001144204-14-066537.txt
+Data written to: 20141110_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420414046984/0001144204-14-046984.txt
+Data written to: 20140805_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420414030843/0001144204-14-030843.txt
+Data written to: 20140515_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420414012791/0001144204-14-012791.txt
+Data written to: 20140303_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420413061759/0001144204-13-061759.txt
+Data written to: 20131114_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420413045551/0001144204-13-045551.txt
+Data written to: 20130814_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420413029279/0001144204-13-029279.txt
+Data written to: 20130515_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420413009064/0001144204-13-009064.txt
+Data written to: 20130214_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420412062560/0001144204-12-062560.txt
+Data written to: 20121114_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420412044279/0001144204-12-044279.txt
+Data written to: 20120810_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000114420412029430/0001144204-12-029430.txt
+Data written to: 20120515_1166308_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107312000014/0001221073-12-000014.txt
+Data written to: 20120213_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107312000014/0001221073-12-000014.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107311000045/0001221073-11-000045.txt
+Data written to: 20111020_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107311000045/0001221073-11-000045.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107311000040/0001221073-11-000040.txt
+Data written to: 20110812_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107311000040/0001221073-11-000040.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107311000013/0001221073-11-000013.txt
+Data written to: 20110420_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107311000013/0001221073-11-000013.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107311000009/0001221073-11-000009.txt
+Data written to: 20110211_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107311000009/0001221073-11-000009.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107310000038/0001221073-10-000038.txt
+Data written to: 20101105_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107310000038/0001221073-10-000038.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107310000032/0001221073-10-000032.txt
+Data written to: 20100811_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107310000032/0001221073-10-000032.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107310000022/0001221073-10-000022.txt
+Data written to: 20100506_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107310000022/0001221073-10-000022.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107310000012/0001221073-10-000012.txt
+Data written to: 20100216_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107310000012/0001221073-10-000012.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000053/0001221073-09-000053.txt
+Data written to: 20091112_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000053/0001221073-09-000053.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000041/0001221073-09-000041.txt
+Data written to: 20090810_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000041/0001221073-09-000041.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000039/0001221073-09-000039.txt
+Data written to: 20090807_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000039/0001221073-09-000039.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000015/0001221073-09-000015.txt
+Data written to: 20090427_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000015/0001221073-09-000015.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000005/0001221073-09-000005.txt
+Data written to: 20090126_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107309000005/0001221073-09-000005.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107308000033/0001221073-08-000033.txt
+Data written to: 20081110_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107308000033/0001221073-08-000033.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107308000025/0001221073-08-000025.txt
+Data written to: 20080807_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107308000025/0001221073-08-000025.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107308000014/0001221073-08-000014.txt
+Data written to: 20080430_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107308000014/0001221073-08-000014.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107308000007/0001221073-08-000007.txt
+Data written to: 20080215_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107308000007/0001221073-08-000007.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107307000032/0001221073-07-000032.txt
+Data written to: 20071114_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107307000032/0001221073-07-000032.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107307000021/0001221073-07-000021.txt
+Data written to: 20070807_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107307000021/0001221073-07-000021.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166308/000122107307000013/0001221073-07-000013.txt
+Data written to: 20070504_1166308_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1166308/000122107307000013/0001221073-07-000013.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012317002545/0000950123-17-002545.txt
+Data written to: 20170214_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012317002545/0000950123-17-002545.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012316022555/0000950123-16-022555.txt
+Data written to: 20161115_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012316022555/0000950123-16-022555.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012316019990/0000950123-16-019990.txt
+Data written to: 20160815_1435053_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012316017526/0000950123-16-017526.txt
+Data written to: 20160516_1435053_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012316014771/0000950123-16-014771.txt
+Data written to: 20160216_1435053_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012315012245/0000950123-15-012245.txt
+Data written to: 20151116_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012315012245/0000950123-15-012245.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012315009369/0000950123-15-009369.txt
+Data written to: 20150814_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012315009369/0000950123-15-009369.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012315006544/0000950123-15-006544.txt
+Data written to: 20150515_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012315006544/0000950123-15-006544.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012315002174/0000950123-15-002174.txt
+Data written to: 20150217_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012315002174/0000950123-15-002174.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012314012165/0000950123-14-012165.txt
+Data written to: 20141114_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012314012165/0000950123-14-012165.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012314009127/0000950123-14-009127.txt
+Data written to: 20140814_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012314009127/0000950123-14-009127.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012314006327/0000950123-14-006327.txt
+Data written to: 20140515_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012314006327/0000950123-14-006327.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012314002757/0000950123-14-002757.txt
+Data written to: 20140214_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012314002757/0000950123-14-002757.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012313009815/0000950123-13-009815.txt
+Data written to: 20131114_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012313009815/0000950123-13-009815.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000095012313006876/0000950123-13-006876.txt
+Data written to: 20130814_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000095012313006876/0000950123-13-006876.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000119312513222380/0001193125-13-222380.txt
+Data written to: 20130515_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000119312513222380/0001193125-13-222380.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000119312513060548/0001193125-13-060548.txt
+Data written to: 20130214_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000119312513060548/0001193125-13-060548.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000119312512471011/0001193125-12-471011.txt
+Data written to: 20121114_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000119312512471011/0001193125-12-471011.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000119312512355799/0001193125-12-355799.txt
+Data written to: 20120814_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000119312512355799/0001193125-12-355799.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000119312512234323/0001193125-12-234323.txt
+Data written to: 20120515_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000119312512234323/0001193125-12-234323.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746912001037/0001047469-12-001037.txt
+Data written to: 20120214_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746912001037/0001047469-12-001037.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746911009508/0001047469-11-009508.txt
+Data written to: 20111114_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746911009508/0001047469-11-009508.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746911007383/0001047469-11-007383.txt
+Data written to: 20110815_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746911007383/0001047469-11-007383.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746911005220/0001047469-11-005220.txt
+Data written to: 20110516_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746911005220/0001047469-11-005220.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746911000926/0001047469-11-000926.txt
+Data written to: 20110214_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746911000926/0001047469-11-000926.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746910009811/0001047469-10-009811.txt
+Data written to: 20101115_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746910009811/0001047469-10-009811.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746910007555/0001047469-10-007555.txt
+Data written to: 20100816_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746910007555/0001047469-10-007555.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746910005402/0001047469-10-005402.txt
+Data written to: 20100517_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746910005402/0001047469-10-005402.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746910000745/0001047469-10-000745.txt
+Data written to: 20100212_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746910000745/0001047469-10-000745.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746909009892/0001047469-09-009892.txt
+Data written to: 20091110_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746909009892/0001047469-09-009892.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746909007453/0001047469-09-007453.txt
+Data written to: 20090810_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746909007453/0001047469-09-007453.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746909005682/0001047469-09-005682.txt
+Data written to: 20090515_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746909005682/0001047469-09-005682.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746909000921/0001047469-09-000921.txt
+Data written to: 20090211_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746909000921/0001047469-09-000921.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908012136/0001047469-08-012136.txt
+Data written to: 20081113_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908012136/0001047469-08-012136.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908009289/0001047469-08-009289.txt
+Data written to: 20080813_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908009289/0001047469-08-009289.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908007352/0001047469-08-007352.txt
+Data written to: 20080611_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908007352/0001047469-08-007352.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908007351/0001047469-08-007351.txt
+Data written to: 20080611_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908007351/0001047469-08-007351.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908007350/0001047469-08-007350.txt
+Data written to: 20080611_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908007350/0001047469-08-007350.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908006869/0001047469-08-006869.txt
+Data written to: 20080522_1435053_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1435053/000104746908006869/0001047469-08-006869.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987317000003/0001509873-17-000003.txt
+Data written to: 20170217_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987317000001/0001509873-17-000001.txt
+Data written to: 20170123_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987316000011/0001509873-16-000011.txt
+Data written to: 20161025_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987316000010/0001509873-16-000010.txt
+Data written to: 20160808_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987316000009/0001509873-16-000009.txt
+Data written to: 20160804_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987316000007/0001509873-16-000007.txt
+Data written to: 20160504_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987316000005/0001509873-16-000005.txt
+Data written to: 20160127_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987315000004/0001509873-15-000004.txt
+Data written to: 20151103_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987315000003/0001509873-15-000003.txt
+Data written to: 20150722_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987315000002/0001509873-15-000002.txt
+Data written to: 20150428_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987315000001/0001509873-15-000001.txt
+Data written to: 20150128_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987314000004/0001509873-14-000004.txt
+Data written to: 20141028_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987314000003/0001509873-14-000003.txt
+Data written to: 20140730_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987314000002/0001509873-14-000002.txt
+Data written to: 20140507_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987314000001/0001509873-14-000001.txt
+Data written to: 20140131_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987313000008/0001509873-13-000008.txt
+Data written to: 20131127_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987313000007/0001509873-13-000007.txt
+Data written to: 20131101_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987313000005/0001509873-13-000005.txt
+Data written to: 20130718_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987313000002/0001509873-13-000002.txt
+Data written to: 20130502_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987313000001/0001509873-13-000001.txt
+Data written to: 20130201_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987312000004/0001509873-12-000004.txt
+Data written to: 20121023_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987312000003/0001509873-12-000003.txt
+Data written to: 20120725_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987312000002/0001509873-12-000002.txt
+Data written to: 20120423_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987312000001/0001509873-12-000001.txt
+Data written to: 20120201_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987311000013/0001509873-11-000013.txt
+Data written to: 20111024_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987311000012/0001509873-11-000012.txt
+Data written to: 20110819_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987311000010/0001509873-11-000010.txt
+Data written to: 20110819_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987311000008/0001509873-11-000008.txt
+Data written to: 20110819_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987311000006/0001509873-11-000006.txt
+Data written to: 20110729_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987311000004/0001509873-11-000004.txt
+Data written to: 20110503_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1509873/000150987311000002/0001509873-11-000002.txt
+Data written to: 20110125_1509873_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000142050617000224/0001420506-17-000224.txt
+Data written to: 20170217_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000142050616001280/0001420506-16-001280.txt
+Data written to: 20161024_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000142050616001124/0001420506-16-001124.txt
+Data written to: 20160727_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036116064248/0001140361-16-064248.txt
+Data written to: 20160510_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036116050565/0001140361-16-050565.txt
+Data written to: 20160208_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036115039785/0001140361-15-039785.txt
+Data written to: 20151105_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036115031412/0001140361-15-031412.txt
+Data written to: 20150813_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036115018112/0001140361-15-018112.txt
+Data written to: 20150507_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036115004904/0001140361-15-004904.txt
+Data written to: 20150210_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036114040344/0001140361-14-040344.txt
+Data written to: 20141106_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036114031968/0001140361-14-031968.txt
+Data written to: 20140813_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036114019518/0001140361-14-019518.txt
+Data written to: 20140508_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036114006481/0001140361-14-006481.txt
+Data written to: 20140212_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036113042005/0001140361-13-042005.txt
+Data written to: 20131113_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036113030650/0001140361-13-030650.txt
+Data written to: 20130807_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036113017467/0001140361-13-017467.txt
+Data written to: 20130425_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036113002903/0001140361-13-002903.txt
+Data written to: 20130124_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036112046494/0001140361-12-046494.txt
+Data written to: 20121109_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036112036777/0001140361-12-036777.txt
+Data written to: 20120814_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036112024224/0001140361-12-024224.txt
+Data written to: 20120510_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036112005780/0001140361-12-005780.txt
+Data written to: 20120207_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036111051348/0001140361-11-051348.txt
+Data written to: 20111102_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036111044387/0001140361-11-044387.txt
+Data written to: 20110901_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036111038740/0001140361-11-038740.txt
+Data written to: 20110801_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036111026269/0001140361-11-026269.txt
+Data written to: 20110510_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036111008096/0001140361-11-008096.txt
+Data written to: 20110211_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036110044410/0001140361-10-044410.txt
+Data written to: 20101109_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036110031192/0001140361-10-031192.txt
+Data written to: 20100803_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036110019372/0001140361-10-019372.txt
+Data written to: 20100506_938506_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/938506/000114036110019372/0001140361-10-019372.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000114036110004478/0001140361-10-004478.txt
+Data written to: 20100205_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583609001389/0000935836-09-001389.txt
+Data written to: 20091104_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583609001251/0000935836-09-001251.txt
+Data written to: 20090812_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583609000947/0000935836-09-000947.txt
+Data written to: 20090511_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583609000107/0000935836-09-000107.txt
+Data written to: 20090206_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583608000480/0000935836-08-000480.txt
+Data written to: 20081112_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583608000285/0000935836-08-000285.txt
+Data written to: 20080805_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583608000232/0000935836-08-000232.txt
+Data written to: 20080509_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583608000041/0000935836-08-000041.txt
+Data written to: 20080206_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583607000348/0000935836-07-000348.txt
+Data written to: 20071108_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/938506/000093583607000275/0000935836-07-000275.txt
+Data written to: 20070803_938506_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484517000001/0001434845-17-000001.txt
+Data written to: 20170217_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000150987317000002/0001509873-17-000002.txt
+Data written to: 20170123_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484516000008/0001434845-16-000008.txt
+Data written to: 20161102_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484516000007/0001434845-16-000007.txt
+Data written to: 20160728_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484516000006/0001434845-16-000006.txt
+Data written to: 20160421_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484516000005/0001434845-16-000005.txt
+Data written to: 20160129_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484515000004/0001434845-15-000004.txt
+Data written to: 20151023_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484515000003/0001434845-15-000003.txt
+Data written to: 20150803_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484515000002/0001434845-15-000002.txt
+Data written to: 20150424_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484515000001/0001434845-15-000001.txt
+Data written to: 20150128_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484514000004/0001434845-14-000004.txt
+Data written to: 20141024_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484514000003/0001434845-14-000003.txt
+Data written to: 20140722_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484514000002/0001434845-14-000002.txt
+Data written to: 20140425_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484514000001/0001434845-14-000001.txt
+Data written to: 20140124_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484513000005/0001434845-13-000005.txt
+Data written to: 20131028_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484513000003/0001434845-13-000003.txt
+Data written to: 20130724_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484513000002/0001434845-13-000002.txt
+Data written to: 20130423_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484513000001/0001434845-13-000001.txt
+Data written to: 20130128_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484512000004/0001434845-12-000004.txt
+Data written to: 20121018_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484512000003/0001434845-12-000003.txt
+Data written to: 20120727_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484512000002/0001434845-12-000002.txt
+Data written to: 20120504_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484512000001/0001434845-12-000001.txt
+Data written to: 20120127_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484511000007/0001434845-11-000007.txt
+Data written to: 20111104_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484511000006/0001434845-11-000006.txt
+Data written to: 20110715_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484511000004/0001434845-11-000004.txt
+Data written to: 20110422_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484511000002/0001434845-11-000002.txt
+Data written to: 20110202_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484510000013/0001434845-10-000013.txt
+Data written to: 20101119_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484510000006/0001434845-10-000006.txt
+Data written to: 20100802_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484510000004/0001434845-10-000004.txt
+Data written to: 20100428_1434845_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484510000002/0001434845-10-000002.txt
+Data written to: 20100122_1434845_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1434845/000143484510000002/0001434845-10-000002.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484509000009/0001434845-09-000009.txt
+Data written to: 20091116_1434845_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1434845/000143484509000009/0001434845-09-000009.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484509000007/0001434845-09-000007.txt
+Data written to: 20090729_1434845_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1434845/000143484509000007/0001434845-09-000007.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484509000004/0001434845-09-000004.txt
+Data written to: 20090430_1434845_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1434845/000143484509000004/0001434845-09-000004.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484509000002/0001434845-09-000002.txt
+Data written to: 20090205_1434845_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1434845/000143484509000002/0001434845-09-000002.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484508000005/0001434845-08-000005.txt
+Data written to: 20081113_1434845_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1434845/000143484508000005/0001434845-08-000005.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484508000004/0001434845-08-000004.txt
+Data written to: 20080801_1434845_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1434845/000143484508000004/0001434845-08-000004.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1434845/000143484508000001/0001434845-08-000001.txt
+Data written to: 20080512_1434845_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1434845/000143484508000001/0001434845-08-000001.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409617000001/0001394096-17-000001.txt
+Data written to: 20170217_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409616000008/0001394096-16-000008.txt
+Data written to: 20161107_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409616000007/0001394096-16-000007.txt
+Data written to: 20160808_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409616000006/0001394096-16-000006.txt
+Data written to: 20160502_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409616000005/0001394096-16-000005.txt
+Data written to: 20160208_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409615000004/0001394096-15-000004.txt
+Data written to: 20151112_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409615000003/0001394096-15-000003.txt
+Data written to: 20150805_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409615000002/0001394096-15-000002.txt
+Data written to: 20150507_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409615000001/0001394096-15-000001.txt
+Data written to: 20150210_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409614000004/0001394096-14-000004.txt
+Data written to: 20141106_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409614000003/0001394096-14-000003.txt
+Data written to: 20140811_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409614000002/0001394096-14-000002.txt
+Data written to: 20140513_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409614000001/0001394096-14-000001.txt
+Data written to: 20140210_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409613000012/0001394096-13-000012.txt
+Data written to: 20131112_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409613000011/0001394096-13-000011.txt
+Data written to: 20130919_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409613000002/0001394096-13-000002.txt
+Data written to: 20130514_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409613000001/0001394096-13-000001.txt
+Data written to: 20130213_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409612000004/0001394096-12-000004.txt
+Data written to: 20121109_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409612000003/0001394096-12-000003.txt
+Data written to: 20120806_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409612000002/0001394096-12-000002.txt
+Data written to: 20120514_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409612000001/0001394096-12-000001.txt
+Data written to: 20120209_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409611000008/0001394096-11-000008.txt
+Data written to: 20111130_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409611000006/0001394096-11-000006.txt
+Data written to: 20110815_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409611000005/0001394096-11-000005.txt
+Data written to: 20110513_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409611000004/0001394096-11-000004.txt
+Data written to: 20110211_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409611000001/0001394096-11-000001.txt
+Data written to: 20110209_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409610000007/0001394096-10-000007.txt
+Data written to: 20101026_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409610000006/0001394096-10-000006.txt
+Data written to: 20100823_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409610000005/0001394096-10-000005.txt
+Data written to: 20100512_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409610000003/0001394096-10-000003.txt
+Data written to: 20100211_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409609000009/0001394096-09-000009.txt
+Data written to: 20091105_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409609000007/0001394096-09-000007.txt
+Data written to: 20090812_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409609000002/0001394096-09-000002.txt
+Data written to: 20090507_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409609000001/0001394096-09-000001.txt
+Data written to: 20090210_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409608000004/0001394096-08-000004.txt
+Data written to: 20081105_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409608000003/0001394096-08-000003.txt
+Data written to: 20080731_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409608000002/0001394096-08-000002.txt
+Data written to: 20080508_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409608000001/0001394096-08-000001.txt
+Data written to: 20080206_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409607000003/0001394096-07-000003.txt
+Data written to: 20071107_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1394096/000139409607000002/0001394096-07-000002.txt
+Data written to: 20070809_1394096_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012317002529/0000950123-17-002529.txt
+Data written to: 20170214_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012317002529/0000950123-17-002529.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012316022560/0000950123-16-022560.txt
+Data written to: 20161115_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012316022560/0000950123-16-022560.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012316020005/0000950123-16-020005.txt
+Data written to: 20160815_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012316020005/0000950123-16-020005.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012316017534/0000950123-16-017534.txt
+Data written to: 20160516_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012316017534/0000950123-16-017534.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012316014788/0000950123-16-014788.txt
+Data written to: 20160216_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012316014788/0000950123-16-014788.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012315012239/0000950123-15-012239.txt
+Data written to: 20151116_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012315012239/0000950123-15-012239.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012315009386/0000950123-15-009386.txt
+Data written to: 20150814_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012315009386/0000950123-15-009386.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012315006570/0000950123-15-006570.txt
+Data written to: 20150515_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012315006570/0000950123-15-006570.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012315002170/0000950123-15-002170.txt
+Data written to: 20150217_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012315002170/0000950123-15-002170.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012314012160/0000950123-14-012160.txt
+Data written to: 20141114_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012314012160/0000950123-14-012160.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012314009134/0000950123-14-009134.txt
+Data written to: 20140814_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012314009134/0000950123-14-009134.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012314006310/0000950123-14-006310.txt
+Data written to: 20140515_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012314006310/0000950123-14-006310.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012314002758/0000950123-14-002758.txt
+Data written to: 20140218_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012314002758/0000950123-14-002758.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012313009839/0000950123-13-009839.txt
+Data written to: 20131114_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012313009839/0000950123-13-009839.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000095012313006882/0000950123-13-006882.txt
+Data written to: 20130814_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000095012313006882/0000950123-13-006882.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000119312513222465/0001193125-13-222465.txt
+Data written to: 20130515_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000119312513222465/0001193125-13-222465.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000119312513060680/0001193125-13-060680.txt
+Data written to: 20130214_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000119312513060680/0001193125-13-060680.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000119312512471007/0001193125-12-471007.txt
+Data written to: 20121114_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000119312512471007/0001193125-12-471007.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000119312512355811/0001193125-12-355811.txt
+Data written to: 20120814_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000119312512355811/0001193125-12-355811.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1548607/000119312512234414/0001193125-12-234414.txt
+Data written to: 20120515_1548607_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1548607/000119312512234414/0001193125-12-234414.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1590021/000095012317002530/0000950123-17-002530.txt
+Data written to: 20170214_1590021_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1590021/000095012317002530/0000950123-17-002530.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1590021/000095012316020000/0000950123-16-020000.txt
+Data written to: 20160815_1590021_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1590021/000095012316020000/0000950123-16-020000.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1590021/000095012316017552/0000950123-16-017552.txt
+Data written to: 20160516_1590021_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1590021/000095012316017552/0000950123-16-017552.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1590021/000095012316014777/0000950123-16-014777.txt
+Data written to: 20160216_1590021_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1590021/000095012316014777/0000950123-16-014777.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1590021/000095012315012229/0000950123-15-012229.txt
+Data written to: 20151116_1590021_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1590021/000095012315012229/0000950123-15-012229.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1590021/000095012315006573/0000950123-15-006573.txt
+Data written to: 20150515_1590021_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1590021/000095012315006573/0000950123-15-006573.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/931061/000095010317001528/0000950103-17-001528.txt
+Data written to: 20170217_931061_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/931061/000095010317001528/0000950103-17-001528.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/891478/000095010317001529/0000950103-17-001529.txt
+Data written to: 20170217_891478_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/891478/000095010317001441/0000950103-17-001441.txt
+Data written to: 20170214_891478_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/891478/000095010300000696/0000950103-00-000696.txt
+Data written to: 20000606_891478_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/891478/0000950103-99-001089.txtl
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/891478/0000950103-99-001089.txtl
+
+'Report_Date'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/891478/0000950103-99-000395.txtl
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/891478/0000950103-99-000395.txtl
+
+'Report_Date'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957417002146/0000919574-17-002146.txt
+Data written to: 20170217_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957417001281/0000919574-17-001281.txt
+Data written to: 20170213_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957416016302/0000919574-16-016302.txt
+Data written to: 20161114_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957416014538/0000919574-16-014538.txt
+Data written to: 20160811_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957416012910/0000919574-16-012910.txt
+Data written to: 20160513_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957416011587/0000919574-16-011587.txt
+Data written to: 20160303_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957416011029/0000919574-16-011029.txt
+Data written to: 20160216_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957415008150/0000919574-15-008150.txt
+Data written to: 20151116_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957415006039/0000919574-15-006039.txt
+Data written to: 20150814_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957415003982/0000919574-15-003982.txt
+Data written to: 20150514_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000091957415001448/0000919574-15-001448.txt
+Data written to: 20150213_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000095012314012391/0000950123-14-012391.txt
+Data written to: 20141119_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000095012314011330/0000950123-14-011330.txt
+Data written to: 20141112_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000095012314009148/0000950123-14-009148.txt
+Data written to: 20140814_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000095012314006032/0000950123-14-006032.txt
+Data written to: 20140514_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000095012314001616/0000950123-14-001616.txt
+Data written to: 20140211_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000095012313009759/0000950123-13-009759.txt
+Data written to: 20131114_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000095012313007038/0000950123-13-007038.txt
+Data written to: 20130814_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312513222322/0001193125-13-222322.txt
+Data written to: 20130515_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312513060109/0001193125-13-060109.txt
+Data written to: 20130214_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312512423393/0001193125-12-423393.txt
+Data written to: 20121015_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312512355513/0001193125-12-355513.txt
+Data written to: 20120814_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312512231240/0001193125-12-231240.txt
+Data written to: 20120514_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312512060741/0001193125-12-060741.txt
+Data written to: 20120214_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312511310902/0001193125-11-310902.txt
+Data written to: 20111114_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312511222614/0001193125-11-222614.txt
+Data written to: 20110815_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312511139544/0001193125-11-139544.txt
+Data written to: 20110513_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312511036418/0001193125-11-036418.txt
+Data written to: 20110215_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312510258661/0001193125-10-258661.txt
+Data written to: 20101112_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312510185534/0001193125-10-185534.txt
+Data written to: 20100811_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312510126956/0001193125-10-126956.txt
+Data written to: 20100524_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312510029759/0001193125-10-029759.txt
+Data written to: 20100212_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312509234025/0001193125-09-234025.txt
+Data written to: 20091113_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312509172561/0001193125-09-172561.txt
+Data written to: 20090812_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312509112540/0001193125-09-112540.txt
+Data written to: 20090515_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312509026783/0001193125-09-026783.txt
+Data written to: 20090212_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312508232820/0001193125-08-232820.txt
+Data written to: 20081112_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312508178061/0001193125-08-178061.txt
+Data written to: 20080814_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312508114124/0001193125-08-114124.txt
+Data written to: 20080514_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1040762/000119312508031186/0001193125-08-031186.txt
+Data written to: 20080214_1040762_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510917000002/0001525109-17-000002.txt
+Data written to: 20170217_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510916000009/0001525109-16-000009.txt
+Data written to: 20161114_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510916000008/0001525109-16-000008.txt
+Data written to: 20160804_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510916000007/0001525109-16-000007.txt
+Data written to: 20160804_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510916000006/0001525109-16-000006.txt
+Data written to: 20160512_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510916000005/0001525109-16-000005.txt
+Data written to: 20160210_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510915000004/0001525109-15-000004.txt
+Data written to: 20151112_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510915000003/0001525109-15-000003.txt
+Data written to: 20150814_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510915000002/0001525109-15-000002.txt
+Data written to: 20150514_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510915000001/0001525109-15-000001.txt
+Data written to: 20150212_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510914000007/0001525109-14-000007.txt
+Data written to: 20141113_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510914000006/0001525109-14-000006.txt
+Data written to: 20140812_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510914000005/0001525109-14-000005.txt
+Data written to: 20140512_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510914000004/0001525109-14-000004.txt
+Data written to: 20140207_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510912000006/0001525109-12-000006.txt
+Data written to: 20121115_1525109_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1525109/000152510912000006/0001525109-12-000006.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510912000004/0001525109-12-000004.txt
+Data written to: 20120515_1525109_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1525109/000152510912000004/0001525109-12-000004.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510912000002/0001525109-12-000002.txt
+Data written to: 20120328_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510911000008/0001525109-11-000008.txt
+Data written to: 20111019_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510911000007/0001525109-11-000007.txt
+Data written to: 20110809_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510911000004/0001525109-11-000004.txt
+Data written to: 20110708_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1525109/000152510911000002/0001525109-11-000002.txt
+Data written to: 20110707_1525109_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012317002531/0000950123-17-002531.txt
+Data written to: 20170214_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012317002531/0000950123-17-002531.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012316022558/0000950123-16-022558.txt
+Data written to: 20161115_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012316022558/0000950123-16-022558.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012316020003/0000950123-16-020003.txt
+Data written to: 20160815_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012316020003/0000950123-16-020003.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012316017536/0000950123-16-017536.txt
+Data written to: 20160516_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012316017536/0000950123-16-017536.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012316014784/0000950123-16-014784.txt
+Data written to: 20160216_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012316014784/0000950123-16-014784.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012315012250/0000950123-15-012250.txt
+Data written to: 20151116_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012315012250/0000950123-15-012250.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012315009378/0000950123-15-009378.txt
+Data written to: 20150814_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012315009378/0000950123-15-009378.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012315006563/0000950123-15-006563.txt
+Data written to: 20150515_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012315006563/0000950123-15-006563.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012315002172/0000950123-15-002172.txt
+Data written to: 20150217_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012315002172/0000950123-15-002172.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012314012166/0000950123-14-012166.txt
+Data written to: 20141114_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012314012166/0000950123-14-012166.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012314009133/0000950123-14-009133.txt
+Data written to: 20140814_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012314009133/0000950123-14-009133.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012314006330/0000950123-14-006330.txt
+Data written to: 20140515_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012314006330/0000950123-14-006330.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012314002759/0000950123-14-002759.txt
+Data written to: 20140218_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012314002759/0000950123-14-002759.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012313009832/0000950123-13-009832.txt
+Data written to: 20131114_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012313009832/0000950123-13-009832.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000095012313006893/0000950123-13-006893.txt
+Data written to: 20130814_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000095012313006893/0000950123-13-006893.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000119312513222509/0001193125-13-222509.txt
+Data written to: 20130515_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000119312513222509/0001193125-13-222509.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000119312513060656/0001193125-13-060656.txt
+Data written to: 20130214_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000119312513060656/0001193125-13-060656.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000119312512471018/0001193125-12-471018.txt
+Data written to: 20121114_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000119312512471018/0001193125-12-471018.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000119312512355819/0001193125-12-355819.txt
+Data written to: 20120814_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000119312512355819/0001193125-12-355819.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000119312512234408/0001193125-12-234408.txt
+Data written to: 20120515_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000119312512234408/0001193125-12-234408.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746912001038/0001047469-12-001038.txt
+Data written to: 20120214_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746912001038/0001047469-12-001038.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746911009504/0001047469-11-009504.txt
+Data written to: 20111114_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746911009504/0001047469-11-009504.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746911007381/0001047469-11-007381.txt
+Data written to: 20110815_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746911007381/0001047469-11-007381.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746911005218/0001047469-11-005218.txt
+Data written to: 20110516_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746911005218/0001047469-11-005218.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746911000927/0001047469-11-000927.txt
+Data written to: 20110214_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746911000927/0001047469-11-000927.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746910009808/0001047469-10-009808.txt
+Data written to: 20101115_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746910009808/0001047469-10-009808.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746910007554/0001047469-10-007554.txt
+Data written to: 20100816_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746910007554/0001047469-10-007554.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746910005400/0001047469-10-005400.txt
+Data written to: 20100517_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746910005400/0001047469-10-005400.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746910000746/0001047469-10-000746.txt
+Data written to: 20100212_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746910000746/0001047469-10-000746.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746909009893/0001047469-09-009893.txt
+Data written to: 20091110_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746909009893/0001047469-09-009893.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746909007450/0001047469-09-007450.txt
+Data written to: 20090810_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746909007450/0001047469-09-007450.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746909005680/0001047469-09-005680.txt
+Data written to: 20090515_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746909005680/0001047469-09-005680.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746909000920/0001047469-09-000920.txt
+Data written to: 20090211_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746909000920/0001047469-09-000920.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746908012137/0001047469-08-012137.txt
+Data written to: 20081113_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746908012137/0001047469-08-012137.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746908009296/0001047469-08-009296.txt
+Data written to: 20080813_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746908009296/0001047469-08-009296.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746908006805/0001047469-08-006805.txt
+Data written to: 20080520_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746908006805/0001047469-08-006805.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746908001143/0001047469-08-001143.txt
+Data written to: 20080212_1313281_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746907009105/0001047469-07-009105.txt
+Data written to: 20071113_1313281_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000117266107000367/0001172661-07-000367.txt
+Data written to: 20070810_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000117266107000367/0001172661-07-000367.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1313281/000104746907004350/0001047469-07-004350.txt
+Data written to: 20070515_1313281_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1313281/000104746907004350/0001047469-07-004350.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1696628/000108514617000825/0001085146-17-000825.txt
+Data written to: 20170217_1696628_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1696628/000108514617000800/0001085146-17-000800.txt
+Data written to: 20170215_1696628_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698066/000095012317002535/0000950123-17-002535.txt
+Data written to: 20170214_1698066_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1698066/000095012317002535/0000950123-17-002535.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698287/000095010317001527/0000950103-17-001527.txt
+Data written to: 20170217_1698287_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1698287/000095010317001527/0000950103-17-001527.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012317002534/0000950123-17-002534.txt
+Data written to: 20170214_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012317002534/0000950123-17-002534.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012316022553/0000950123-16-022553.txt
+Data written to: 20161115_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012316022553/0000950123-16-022553.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012316019996/0000950123-16-019996.txt
+Data written to: 20160815_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012316019996/0000950123-16-019996.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012316017542/0000950123-16-017542.txt
+Data written to: 20160516_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012316017542/0000950123-16-017542.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012316014783/0000950123-16-014783.txt
+Data written to: 20160216_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012316014783/0000950123-16-014783.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012315012236/0000950123-15-012236.txt
+Data written to: 20151116_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012315012236/0000950123-15-012236.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012315009382/0000950123-15-009382.txt
+Data written to: 20150814_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012315009382/0000950123-15-009382.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012315006555/0000950123-15-006555.txt
+Data written to: 20150515_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012315006555/0000950123-15-006555.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012315002166/0000950123-15-002166.txt
+Data written to: 20150217_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012315002166/0000950123-15-002166.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012314012163/0000950123-14-012163.txt
+Data written to: 20141114_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012314012163/0000950123-14-012163.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012314009140/0000950123-14-009140.txt
+Data written to: 20140814_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012314009140/0000950123-14-009140.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012314006319/0000950123-14-006319.txt
+Data written to: 20140515_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012314006319/0000950123-14-006319.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012314002761/0000950123-14-002761.txt
+Data written to: 20140218_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012314002761/0000950123-14-002761.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012313009813/0000950123-13-009813.txt
+Data written to: 20131114_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012313009813/0000950123-13-009813.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000095012313006892/0000950123-13-006892.txt
+Data written to: 20130814_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000095012313006892/0000950123-13-006892.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000119312513222379/0001193125-13-222379.txt
+Data written to: 20130515_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000119312513222379/0001193125-13-222379.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000119312513060662/0001193125-13-060662.txt
+Data written to: 20130214_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000119312513060662/0001193125-13-060662.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000119312512471009/0001193125-12-471009.txt
+Data written to: 20121114_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000119312512471009/0001193125-12-471009.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000119312512355835/0001193125-12-355835.txt
+Data written to: 20120814_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000119312512355835/0001193125-12-355835.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000119312512234354/0001193125-12-234354.txt
+Data written to: 20120515_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000119312512234354/0001193125-12-234354.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746912001036/0001047469-12-001036.txt
+Data written to: 20120214_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746912001036/0001047469-12-001036.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746911009506/0001047469-11-009506.txt
+Data written to: 20111114_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746911009506/0001047469-11-009506.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746911007384/0001047469-11-007384.txt
+Data written to: 20110815_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746911007384/0001047469-11-007384.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746911005219/0001047469-11-005219.txt
+Data written to: 20110516_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746911005219/0001047469-11-005219.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746911000925/0001047469-11-000925.txt
+Data written to: 20110214_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746911000925/0001047469-11-000925.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746910009810/0001047469-10-009810.txt
+Data written to: 20101115_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746910009810/0001047469-10-009810.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746910007553/0001047469-10-007553.txt
+Data written to: 20100816_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746910007553/0001047469-10-007553.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746910005401/0001047469-10-005401.txt
+Data written to: 20100517_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746910005401/0001047469-10-005401.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746910000780/0001047469-10-000780.txt
+Data written to: 20100212_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746910000780/0001047469-10-000780.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746909009891/0001047469-09-009891.txt
+Data written to: 20091110_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746909009891/0001047469-09-009891.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746909007451/0001047469-09-007451.txt
+Data written to: 20090810_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746909007451/0001047469-09-007451.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746909005681/0001047469-09-005681.txt
+Data written to: 20090515_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746909005681/0001047469-09-005681.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746909000923/0001047469-09-000923.txt
+Data written to: 20090211_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746909000923/0001047469-09-000923.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908012134/0001047469-08-012134.txt
+Data written to: 20081113_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908012134/0001047469-08-012134.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908009288/0001047469-08-009288.txt
+Data written to: 20080813_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908009288/0001047469-08-009288.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908007349/0001047469-08-007349.txt
+Data written to: 20080611_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908007349/0001047469-08-007349.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908007348/0001047469-08-007348.txt
+Data written to: 20080611_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908007348/0001047469-08-007348.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908007347/0001047469-08-007347.txt
+Data written to: 20080611_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908007347/0001047469-08-007347.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908006806/0001047469-08-006806.txt
+Data written to: 20080520_1257135_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1257135/000104746908006806/0001047469-08-006806.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698364/000095012317002625/0000950123-17-002625.txt
+Data written to: 20170217_1698364_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1698364/000095012317002625/0000950123-17-002625.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713117000840/0001387131-17-000840.txt
+Data written to: 20170214_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713116007989/0001387131-16-007989.txt
+Data written to: 20161115_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713116006614/0001387131-16-006614.txt
+Data written to: 20160815_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713116005581/0001387131-16-005581.txt
+Data written to: 20160516_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713116004217/0001387131-16-004217.txt
+Data written to: 20160212_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713115003446/0001387131-15-003446.txt
+Data written to: 20151116_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713115002552/0001387131-15-002552.txt
+Data written to: 20150814_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713115001765/0001387131-15-001765.txt
+Data written to: 20150515_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713115000585/0001387131-15-000585.txt
+Data written to: 20150217_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713114003812/0001387131-14-003812.txt
+Data written to: 20141114_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713114002991/0001387131-14-002991.txt
+Data written to: 20140814_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000138713114001955/0001387131-14-001955.txt
+Data written to: 20140515_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1600004/000142050614000094/0001420506-14-000094.txt
+Data written to: 20140214_1600004_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000116500217000022/0001165002-17-000022.txt
+Data written to: 20170217_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000116500217000016/0001165002-17-000016.txt
+Data written to: 20170215_1165002_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1165002/000116500217000016/0001165002-17-000016.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000116500216000076/0001165002-16-000076.txt
+Data written to: 20161115_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000116500216000066/0001165002-16-000066.txt
+Data written to: 20160815_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000116500216000055/0001165002-16-000055.txt
+Data written to: 20160516_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000116500216000031/0001165002-16-000031.txt
+Data written to: 20160216_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000116500215000023/0001165002-15-000023.txt
+Data written to: 20151116_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000116500215000011/0001165002-15-000011.txt
+Data written to: 20150817_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000095012315005226/0000950123-15-005226.txt
+Data written to: 20150508_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000095012315003335/0000950123-15-003335.txt
+Data written to: 20150217_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000095012314011782/0000950123-14-011782.txt
+Data written to: 20141113_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000095012314009076/0000950123-14-009076.txt
+Data written to: 20140814_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000095012314005977/0000950123-14-005977.txt
+Data written to: 20140514_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000095012314001626/0000950123-14-001626.txt
+Data written to: 20140211_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000095012313008810/0000950123-13-008810.txt
+Data written to: 20131108_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1165002/000095012313006322/0000950123-13-006322.txt
+Data written to: 20130813_1165002_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1697815/000114420417009638/0001144204-17-009638.txt
+Data written to: 20170217_1697815_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1675088/000167508817000003/0001675088-17-000003.txt
+Data written to: 20170221_1675088_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1675088/000167508817000002/0001675088-17-000002.txt
+Data written to: 20170217_1675088_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1675088/000167508816000013/0001675088-16-000013.txt
+Data written to: 20160916_1675088_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1675088/000167508816000011/0001675088-16-000011.txt
+Data written to: 20160520_1675088_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1675088/000167508816000009/0001675088-16-000009.txt
+Data written to: 20160520_1675088_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012317002544/0000950123-17-002544.txt
+Data written to: 20170214_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012317002544/0000950123-17-002544.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012316022318/0000950123-16-022318.txt
+Data written to: 20161114_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012316022318/0000950123-16-022318.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012316020016/0000950123-16-020016.txt
+Data written to: 20160815_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012316020016/0000950123-16-020016.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012316017672/0000950123-16-017672.txt
+Data written to: 20160516_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012316017672/0000950123-16-017672.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012316015119/0000950123-16-015119.txt
+Data written to: 20160216_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012316015119/0000950123-16-015119.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012315012220/0000950123-15-012220.txt
+Data written to: 20151116_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012315012220/0000950123-15-012220.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012315009329/0000950123-15-009329.txt
+Data written to: 20150814_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012315009329/0000950123-15-009329.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012315006539/0000950123-15-006539.txt
+Data written to: 20150515_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012315006539/0000950123-15-006539.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012315002543/0000950123-15-002543.txt
+Data written to: 20150217_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012315002543/0000950123-15-002543.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012314012325/0000950123-14-012325.txt
+Data written to: 20141114_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012314012325/0000950123-14-012325.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012314008972/0000950123-14-008972.txt
+Data written to: 20140814_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012314008972/0000950123-14-008972.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012314006222/0000950123-14-006222.txt
+Data written to: 20140515_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012314006222/0000950123-14-006222.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012314002726/0000950123-14-002726.txt
+Data written to: 20140214_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012314002726/0000950123-14-002726.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012313009549/0000950123-13-009549.txt
+Data written to: 20131114_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012313009549/0000950123-13-009549.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012313007045/0000950123-13-007045.txt
+Data written to: 20130815_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012313007045/0000950123-13-007045.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000119312513222277/0001193125-13-222277.txt
+Data written to: 20130515_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000119312513222277/0001193125-13-222277.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000119312513059009/0001193125-13-059009.txt
+Data written to: 20130214_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000119312513059009/0001193125-13-059009.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000119312512469659/0001193125-12-469659.txt
+Data written to: 20121114_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000119312512469659/0001193125-12-469659.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000119312512354375/0001193125-12-354375.txt
+Data written to: 20120814_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000119312512354375/0001193125-12-354375.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000119312512233011/0001193125-12-233011.txt
+Data written to: 20120515_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000119312512233011/0001193125-12-233011.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000119312512058642/0001193125-12-058642.txt
+Data written to: 20120214_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000119312512058642/0001193125-12-058642.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012311098093/0000950123-11-098093.txt
+Data written to: 20111114_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012311098093/0000950123-11-098093.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012311077266/0000950123-11-077266.txt
+Data written to: 20110815_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012311077266/0000950123-11-077266.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012311050519/0000950123-11-050519.txt
+Data written to: 20110516_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012311050519/0000950123-11-050519.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012311013525/0000950123-11-013525.txt
+Data written to: 20110214_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012311013525/0000950123-11-013525.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012310105425/0000950123-10-105425.txt
+Data written to: 20101115_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012310105425/0000950123-10-105425.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012310077722/0000950123-10-077722.txt
+Data written to: 20100816_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012310077722/0000950123-10-077722.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012310050177/0000950123-10-050177.txt
+Data written to: 20100517_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012310050177/0000950123-10-050177.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012310012932/0000950123-10-012932.txt
+Data written to: 20100216_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012310012932/0000950123-10-012932.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012309062793/0000950123-09-062793.txt
+Data written to: 20091116_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012309062793/0000950123-09-062793.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095012309035337/0000950123-09-035337.txt
+Data written to: 20090814_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095012309035337/0000950123-09-035337.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013509004006/0000950135-09-004006.txt
+Data written to: 20090515_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013509004006/0000950135-09-004006.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013509001019/0000950135-09-001019.txt
+Data written to: 20090217_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013509001019/0000950135-09-001019.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013508007286/0000950135-08-007286.txt
+Data written to: 20081114_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013508007286/0000950135-08-007286.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013508005588/0000950135-08-005588.txt
+Data written to: 20080814_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013508005588/0000950135-08-005588.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013508003716/0000950135-08-003716.txt
+Data written to: 20080515_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013508003716/0000950135-08-003716.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013508000988/0000950135-08-000988.txt
+Data written to: 20080214_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013508000988/0000950135-08-000988.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013507006991/0000950135-07-006991.txt
+Data written to: 20071114_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013507006991/0000950135-07-006991.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013507005034/0000950135-07-005034.txt
+Data written to: 20070814_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013507005034/0000950135-07-005034.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1298578/000095013507003170/0000950135-07-003170.txt
+Data written to: 20070515_1298578_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1298578/000095013507003170/0000950135-07-003170.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1642570/000164257017000002/0001642570-17-000002.txt
+Data written to: 20170217_1642570_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1642570/000164257016000014/0001642570-16-000014.txt
+Data written to: 20161102_1642570_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1642570/000164257016000012/0001642570-16-000012.txt
+Data written to: 20160805_1642570_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1642570/000164257016000010/0001642570-16-000010.txt
+Data written to: 20160427_1642570_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1642570/000164257016000008/0001642570-16-000008.txt
+Data written to: 20160119_1642570_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1642570/000164257015000006/0001642570-15-000006.txt
+Data written to: 20151026_1642570_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1642570/000164257015000004/0001642570-15-000004.txt
+Data written to: 20150713_1642570_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1642570/000164257015000002/0001642570-15-000002.txt
+Data written to: 20150515_1642570_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012317002542/0000950123-17-002542.txt
+Data written to: 20170214_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012317002542/0000950123-17-002542.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012316022329/0000950123-16-022329.txt
+Data written to: 20161114_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012316022329/0000950123-16-022329.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012316020017/0000950123-16-020017.txt
+Data written to: 20160815_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012316020017/0000950123-16-020017.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012316017665/0000950123-16-017665.txt
+Data written to: 20160516_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012316017665/0000950123-16-017665.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012316015109/0000950123-16-015109.txt
+Data written to: 20160216_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012316015109/0000950123-16-015109.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012315012218/0000950123-15-012218.txt
+Data written to: 20151116_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012315012218/0000950123-15-012218.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012315009335/0000950123-15-009335.txt
+Data written to: 20150814_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012315009335/0000950123-15-009335.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012315006536/0000950123-15-006536.txt
+Data written to: 20150515_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012315006536/0000950123-15-006536.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012315002545/0000950123-15-002545.txt
+Data written to: 20150217_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012315002545/0000950123-15-002545.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012314012334/0000950123-14-012334.txt
+Data written to: 20141114_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012314012334/0000950123-14-012334.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012314008978/0000950123-14-008978.txt
+Data written to: 20140814_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012314008978/0000950123-14-008978.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012314006224/0000950123-14-006224.txt
+Data written to: 20140515_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012314006224/0000950123-14-006224.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012314002724/0000950123-14-002724.txt
+Data written to: 20140214_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012314002724/0000950123-14-002724.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012313009551/0000950123-13-009551.txt
+Data written to: 20131114_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012313009551/0000950123-13-009551.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012313007047/0000950123-13-007047.txt
+Data written to: 20130815_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012313007047/0000950123-13-007047.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000119312513221624/0001193125-13-221624.txt
+Data written to: 20130515_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000119312513221624/0001193125-13-221624.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000119312513058990/0001193125-13-058990.txt
+Data written to: 20130214_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000119312513058990/0001193125-13-058990.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000119312512469649/0001193125-12-469649.txt
+Data written to: 20121114_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000119312512469649/0001193125-12-469649.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000119312512354368/0001193125-12-354368.txt
+Data written to: 20120814_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000119312512354368/0001193125-12-354368.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000119312512233031/0001193125-12-233031.txt
+Data written to: 20120515_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000119312512233031/0001193125-12-233031.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000119312512058650/0001193125-12-058650.txt
+Data written to: 20120214_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000119312512058650/0001193125-12-058650.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012311098091/0000950123-11-098091.txt
+Data written to: 20111114_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012311098091/0000950123-11-098091.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012311077265/0000950123-11-077265.txt
+Data written to: 20110815_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012311077265/0000950123-11-077265.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012311050516/0000950123-11-050516.txt
+Data written to: 20110516_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012311050516/0000950123-11-050516.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012311013518/0000950123-11-013518.txt
+Data written to: 20110214_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012311013518/0000950123-11-013518.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012310105422/0000950123-10-105422.txt
+Data written to: 20101115_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012310105422/0000950123-10-105422.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012310077724/0000950123-10-077724.txt
+Data written to: 20100816_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012310077724/0000950123-10-077724.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012310050173/0000950123-10-050173.txt
+Data written to: 20100517_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012310050173/0000950123-10-050173.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012310012929/0000950123-10-012929.txt
+Data written to: 20100216_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012310012929/0000950123-10-012929.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012309062791/0000950123-09-062791.txt
+Data written to: 20091116_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012309062791/0000950123-09-062791.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095012309035340/0000950123-09-035340.txt
+Data written to: 20090814_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095012309035340/0000950123-09-035340.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013509004005/0000950135-09-004005.txt
+Data written to: 20090515_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013509004005/0000950135-09-004005.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013509001021/0000950135-09-001021.txt
+Data written to: 20090217_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013509001021/0000950135-09-001021.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013508007283/0000950135-08-007283.txt
+Data written to: 20081114_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013508007283/0000950135-08-007283.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013508005587/0000950135-08-005587.txt
+Data written to: 20080814_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013508005587/0000950135-08-005587.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013508003713/0000950135-08-003713.txt
+Data written to: 20080515_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013508003713/0000950135-08-003713.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013508000991/0000950135-08-000991.txt
+Data written to: 20080214_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013508000991/0000950135-08-000991.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013507006993/0000950135-07-006993.txt
+Data written to: 20071114_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013507006993/0000950135-07-006993.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013507005033/0000950135-07-005033.txt
+Data written to: 20070814_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013507005033/0000950135-07-005033.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1299903/000095013507003169/0000950135-07-003169.txt
+Data written to: 20070515_1299903_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1299903/000095013507003169/0000950135-07-003169.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698064/000095012317002548/0000950123-17-002548.txt
+Data written to: 20170214_1698064_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1698064/000095012317002548/0000950123-17-002548.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012317002537/0000950123-17-002537.txt
+Data written to: 20170214_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012316022304/0000950123-16-022304.txt
+Data written to: 20161114_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012316020011/0000950123-16-020011.txt
+Data written to: 20160815_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012316017667/0000950123-16-017667.txt
+Data written to: 20160516_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012316015114/0000950123-16-015114.txt
+Data written to: 20160216_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012315012213/0000950123-15-012213.txt
+Data written to: 20151116_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012315009332/0000950123-15-009332.txt
+Data written to: 20150814_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012315006531/0000950123-15-006531.txt
+Data written to: 20150515_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012315002512/0000950123-15-002512.txt
+Data written to: 20150217_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012314012421/0000950123-14-012421.txt
+Data written to: 20141119_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012314012419/0000950123-14-012419.txt
+Data written to: 20141119_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012314012417/0000950123-14-012417.txt
+Data written to: 20141119_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012314012320/0000950123-14-012320.txt
+Data written to: 20141114_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012314008974/0000950123-14-008974.txt
+Data written to: 20140814_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012314006227/0000950123-14-006227.txt
+Data written to: 20140515_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012314002722/0000950123-14-002722.txt
+Data written to: 20140214_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012313009547/0000950123-13-009547.txt
+Data written to: 20131114_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012313007041/0000950123-13-007041.txt
+Data written to: 20130815_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000119312513221608/0001193125-13-221608.txt
+Data written to: 20130515_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000119312513058985/0001193125-13-058985.txt
+Data written to: 20130214_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000119312512469636/0001193125-12-469636.txt
+Data written to: 20121114_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000119312512354364/0001193125-12-354364.txt
+Data written to: 20120814_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000119312512233003/0001193125-12-233003.txt
+Data written to: 20120515_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000119312512058633/0001193125-12-058633.txt
+Data written to: 20120214_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012311098094/0000950123-11-098094.txt
+Data written to: 20111114_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012311077263/0000950123-11-077263.txt
+Data written to: 20110815_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012311050515/0000950123-11-050515.txt
+Data written to: 20110516_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012311013517/0000950123-11-013517.txt
+Data written to: 20110214_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012310106584/0000950123-10-106584.txt
+Data written to: 20101117_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012310105420/0000950123-10-105420.txt
+Data written to: 20101115_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012310077725/0000950123-10-077725.txt
+Data written to: 20100816_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012310050171/0000950123-10-050171.txt
+Data written to: 20100517_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012310012927/0000950123-10-012927.txt
+Data written to: 20100216_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012309065596/0000950123-09-065596.txt
+Data written to: 20091124_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012309062786/0000950123-09-062786.txt
+Data written to: 20091116_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095012309035335/0000950123-09-035335.txt
+Data written to: 20090814_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095013509004004/0000950135-09-004004.txt
+Data written to: 20090515_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095013509001018/0000950135-09-001018.txt
+Data written to: 20090217_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095013508007281/0000950135-08-007281.txt
+Data written to: 20081114_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1276144/000095013508005590/0000950135-08-005590.txt
+Data written to: 20080814_1276144_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465917009347/0001104659-17-009347.txt
+Data written to: 20170214_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465916156931/0001104659-16-156931.txt
+Data written to: 20161114_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465916139781/0001104659-16-139781.txt
+Data written to: 20160815_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465916120911/0001104659-16-120911.txt
+Data written to: 20160513_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465916096636/0001104659-16-096636.txt
+Data written to: 20160212_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465915078780/0001104659-15-078780.txt
+Data written to: 20151113_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465915060084/0001104659-15-060084.txt
+Data written to: 20150814_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465915038724/0001104659-15-038724.txt
+Data written to: 20150515_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465915010462/0001104659-15-010462.txt
+Data written to: 20150213_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465914081003/0001104659-14-081003.txt
+Data written to: 20141114_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465914061098/0001104659-14-061098.txt
+Data written to: 20140814_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465914039387/0001104659-14-039387.txt
+Data written to: 20140515_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465914010663/0001104659-14-010663.txt
+Data written to: 20140214_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465913084874/0001104659-13-084874.txt
+Data written to: 20131114_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000110465913063997/0001104659-13-063997.txt
+Data written to: 20130814_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746913006200/0001047469-13-006200.txt
+Data written to: 20130515_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746913001017/0001047469-13-001017.txt
+Data written to: 20130214_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746912010583/0001047469-12-010583.txt
+Data written to: 20121114_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746912008325/0001047469-12-008325.txt
+Data written to: 20120814_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746912006080/0001047469-12-006080.txt
+Data written to: 20120515_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746912001032/0001047469-12-001032.txt
+Data written to: 20120214_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746911009553/0001047469-11-009553.txt
+Data written to: 20111114_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746911007429/0001047469-11-007429.txt
+Data written to: 20110815_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746911005234/0001047469-11-005234.txt
+Data written to: 20110516_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746911000932/0001047469-11-000932.txt
+Data written to: 20110214_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746910009797/0001047469-10-009797.txt
+Data written to: 20101115_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746910007567/0001047469-10-007567.txt
+Data written to: 20100816_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746910005404/0001047469-10-005404.txt
+Data written to: 20100517_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746910000908/0001047469-10-000908.txt
+Data written to: 20100216_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746909010214/0001047469-09-010214.txt
+Data written to: 20091116_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746909007831/0001047469-09-007831.txt
+Data written to: 20090814_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746909005750/0001047469-09-005750.txt
+Data written to: 20090515_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746909001307/0001047469-09-001307.txt
+Data written to: 20090217_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746908012315/0001047469-08-012315.txt
+Data written to: 20081114_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746908009452/0001047469-08-009452.txt
+Data written to: 20080814_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746908006692/0001047469-08-006692.txt
+Data written to: 20080515_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746908001373/0001047469-08-001373.txt
+Data written to: 20080214_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746907009280/0001047469-07-009280.txt
+Data written to: 20071114_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746907006532/0001047469-07-006532.txt
+Data written to: 20070814_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1166559/000104746907004335/0001047469-07-004335.txt
+Data written to: 20070515_1166559_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698351/000095012317002627/0000950123-17-002627.txt
+Data written to: 20170217_1698351_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1698351/000095012317002627/0000950123-17-002627.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698222/000139834417002202/0001398344-17-002202.txt
+Data written to: 20170217_1698222_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698340/000095012317002623/0000950123-17-002623.txt
+Data written to: 20170217_1698340_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1698340/000095012317002623/0000950123-17-002623.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698218/000108514617000823/0001085146-17-000823.txt
+Data written to: 20170217_1698218_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481617000006/0001214816-17-000006.txt
+Data written to: 20170217_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481616000088/0001214816-16-000088.txt
+Data written to: 20161107_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481616000077/0001214816-16-000077.txt
+Data written to: 20160805_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481616000064/0001214816-16-000064.txt
+Data written to: 20160509_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481616000053/0001214816-16-000053.txt
+Data written to: 20160212_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481615000044/0001214816-15-000044.txt
+Data written to: 20151105_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481615000029/0001214816-15-000029.txt
+Data written to: 20150729_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481615000021/0001214816-15-000021.txt
+Data written to: 20150505_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481615000007/0001214816-15-000007.txt
+Data written to: 20150212_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481614000058/0001214816-14-000058.txt
+Data written to: 20141110_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481614000049/0001214816-14-000049.txt
+Data written to: 20140808_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481614000033/0001214816-14-000033.txt
+Data written to: 20140508_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000121481614000013/0001214816-14-000013.txt
+Data written to: 20140212_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000095012313009071/0000950123-13-009071.txt
+Data written to: 20131112_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000095012313005811/0000950123-13-005811.txt
+Data written to: 20130809_1214816_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000119312513216762/0001193125-13-216762.txt
+Data written to: 20130513_1214816_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1214816/000119312513216762/0001193125-13-216762.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000119312513054916/0001193125-13-054916.txt
+Data written to: 20130213_1214816_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1214816/000119312513054916/0001193125-13-054916.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000119312512462233/0001193125-12-462233.txt
+Data written to: 20121109_1214816_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1214816/000119312512462233/0001193125-12-462233.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000119312512337799/0001193125-12-337799.txt
+Data written to: 20120806_1214816_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1214816/000119312512337799/0001193125-12-337799.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000119312512215427/0001193125-12-215427.txt
+Data written to: 20120507_1214816_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1214816/000119312512215427/0001193125-12-215427.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1214816/000119312512052499/0001193125-12-052499.txt
+Data written to: 20120210_1214816_holdings.csv
+Parsing error occurred with this url: https://www.sec.gov/Archives/edgar/data/1214816/000119312512052499/0001193125-12-052499.txt
+
+'holdings'
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1674623/000167462317000001/0001674623-17-000001.txt
+Data written to: 20170217_1674623_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1674623/000167462316000003/0001674623-16-000003.txt
+Data written to: 20161102_1674623_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1674623/000167462316000002/0001674623-16-000002.txt
+Data written to: 20160808_1674623_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1674623/000167462316000001/0001674623-16-000001.txt
+Data written to: 20160516_1674623_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1698215/000117266117000793/0001172661-17-000793.txt
+Data written to: 20170217_1698215_holdings.csv
+
+parsing url: https://www.sec.gov/Archives/edgar/data/1660694/000139834417002216/0001398344-17-002216.txt
+Data written to: 20170217_1660694_holdings.csv
